@@ -15,18 +15,9 @@
 ### Languages and Tools:
 <p> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://spring.io" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" alt="spring" width="33" height="35"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tr.reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/> </a><a href="https://reactnative.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anldemirci&show_icons=true&locale=en&layout=compact" alt="anldemirci" /></p>
+</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anldemirci&show_icons=true&locale=en&layout=compact" alt="anldemirci" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anldemirci&show_icons=true&locale=en" alt="anldemirci" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anldemirci&" alt="anldemirci" /></p>
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 
 [linkedin]: https://www.linkedin.com/in/mehmet-an%C4%B1l-demirci-506211159/
 <!--
