@@ -22,6 +22,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anldemirci&" alt="anldemirci" /></p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
 [linkedin]: https://www.linkedin.com/in/mehmet-an%C4%B1l-demirci-506211159/
 <!--
 **AnLDemirci/AnLDemirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
