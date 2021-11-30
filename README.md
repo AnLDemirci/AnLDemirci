@@ -10,6 +10,7 @@
 
 ### Connect with me: 
 [<img align="left" alt="AnLDemirci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[websitem]
 <br />
 
 ### Languages and Tools:
@@ -20,6 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anldemirci&" alt="anldemirci" /></p>
 
 [linkedin]: https://www.linkedin.com/in/mehmet-an%C4%B1l-demirci-506211159/
+[websitem]: http://anildemirc.com/
 <!--
 **AnLDemirci/AnLDemirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
